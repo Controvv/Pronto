@@ -1,4 +1,4 @@
-# 6/25/25 
+# 6/25/25 Day 1
 Came up with the intial idea and started cad
 
 Chose the BTT manta E3EZ since I have experience with it, It dosen't need a seperate board to run klipper since it supports the CB1 and CM4, and it fulfills all my needs for Pronto.
@@ -7,7 +7,7 @@ Decied on a size for the base and the control board that I am going to use (BTT 
 
 ![image](https://github.com/user-attachments/assets/b4ded102-eb55-47ec-a571-1f3344703804)
 
-# 7/17/25 Continued part sourcing and a little cad
+# 7/17/25 Day 2 Continued part sourcing and a little cad
 
 
 ### - Extruder
@@ -27,3 +27,8 @@ I chose the Mellow NF Zone V6 hotend because it is an inexpesive, reliable, and 
 Continued on the base and mounted the first of 7 linear rails (1 hour)
 
 <img width="808" height="844" alt="image" src="https://github.com/user-attachments/assets/cd6acde6-80f7-4422-9922-93aff647d7ee" />
+
+# 7/18/25 Day 3 Worked on mounting the rest of the linear rails and pulley mounts (8 hours)
+
+
+<img width="765" height="774" alt="image" src="https://github.com/user-attachments/assets/20c816e6-e28e-425f-b315-048f5a6691b9" />
