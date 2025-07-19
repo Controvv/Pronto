@@ -28,7 +28,7 @@ Continued on the base and mounted the first of 7 linear rails (1 hour)
 
 <img width="808" height="844" alt="image" src="https://github.com/user-attachments/assets/cd6acde6-80f7-4422-9922-93aff647d7ee" />
 
-# 7/18/25 Day 3 Worked on mounting the rest of the linear rails and pulley mounts (8 hours)
+# 7/18/25 Day 3 Worked on mounting the rest of the linear rails, pulley mounts, and Z motors (8 hours)
 
 
 <img width="765" height="774" alt="image" src="https://github.com/user-attachments/assets/20c816e6-e28e-425f-b315-048f5a6691b9" />
