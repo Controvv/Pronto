@@ -13,6 +13,8 @@ Decied on a size for the base and the control board that I am going to use (BTT 
 ### - Extruder
 
 Decied on the HGX lite 2.0 extruder because from what i have seen it is a relible and powerfull extruder that will be just what i need for this project.
+<img width="369" height="437" alt="image" src="https://github.com/user-attachments/assets/0cc9185b-3c8b-41d4-bda3-9af9a0b4c4e3" />
+
 
 ### - Rails
 
@@ -21,6 +23,8 @@ I decied on MGN9H rails and blocks because they are light weight and since i am 
 ### - Hotend
 
 I chose the Mellow NF Zone V6 hotend because it is an inexpesive, reliable, and effective hotend capible of temps up to 500C and containing an all metal heatbreak makes this a good solution for the hotend.
+<img width="182" height="396" alt="image" src="https://github.com/user-attachments/assets/842ccd98-0cd2-4608-a69b-69d0b8f20413" />
+
 
 (Spent 4 hours researching parts)
 
