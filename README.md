@@ -17,4 +17,5 @@ A cross cantilever 3d printer
 
 # CAD as of 7/20/25
 
-<img width="470" height="630" alt="image" src="https://github.com/user-attachments/assets/3877e1c7-2c3d-4989-9598-d03fd0e9705f" />
+<img width="580" height="724" alt="image" src="https://github.com/user-attachments/assets/3b1f028b-9556-40d3-a7e8-c4c25361eca7" />
+
