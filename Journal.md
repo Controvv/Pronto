@@ -42,3 +42,7 @@ Continued on the base and mounted the first of 7 linear rails (1 hour)
 # 7/19/25 Day 4 Almost finished hotend just need to mount part cooling fans (4 Hours)
 
 <img width="570" height="709" alt="image" src="https://github.com/user-attachments/assets/ff3e593d-7ebf-4949-a7a7-ad574d94799b" />
+
+# 7/20/25 Day 5 Mounted Part cooling fans (4 hour) 
+
+<img width="1418" height="567" alt="image" src="https://github.com/user-attachments/assets/dbfc3388-f7bf-4f42-875f-56c32c1ca8a1" />
